@@ -73,7 +73,7 @@ Ao iniciar o processo do merge, é preciso ter bastante atenção (cuidado com o
 - https://blog.betrybe.com/git/git-merge/ (Git merge: mesclando sua branch à branch master!) 
 - https://www.youtube.com/watch?v=xAOBQtSVI_k&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&index=12 (Git Branches de forma fácil e com exemplo - Curso de Git e GitHub- Curso em Vídeo) 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/8vQSQ3cNXuDGo/giphy.gif)
 
 
 
