@@ -67,6 +67,9 @@ git commit -m "Merge dos gatinhos e brinquedos"
 
 # Refêrencias
 
+
+![Alt Text](https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif)
+
 Ao iniciar o processo do merge, é preciso ter bastante atenção (cuidado com o dedo nervoso) e tem uma boa chance de dar conflitos, vou deixar aqui algumas referencias boas que podem te ajudar com isso. Mas se lembre: Faça com calma e atenção! 
 
 - https://git-scm.com/book/pt-br/v2 (documentação do git)
@@ -75,6 +78,5 @@ Ao iniciar o processo do merge, é preciso ter bastante atenção (cuidado com o
 
 
 
-![Alt Text](https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif)
 
 
