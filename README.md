@@ -67,14 +67,13 @@ git commit -m "Merge dos gatinhos e brinquedos"
 
 # Refêrencias
 
-
-![Alt Text](https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif)
-
 Ao iniciar o processo do merge, é preciso ter bastante atenção (cuidado com o dedo nervoso) e tem uma boa chance de dar conflitos, vou deixar aqui algumas referencias boas que podem te ajudar com isso. Mas se lembre: Faça com calma e atenção! 
 
 - https://git-scm.com/book/pt-br/v2 (documentação do git)
 - https://blog.betrybe.com/git/git-merge/ (Git merge: mesclando sua branch à branch master!) 
 - https://www.youtube.com/watch?v=xAOBQtSVI_k&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&index=12 (Git Branches de forma fácil e com exemplo - Curso de Git e GitHub- Curso em Vídeo) 
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 
