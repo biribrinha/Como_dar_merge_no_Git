@@ -74,3 +74,7 @@ Ao iniciar o processo do merge, é preciso ter bastante atenção (cuidado com o
 - https://www.youtube.com/watch?v=xAOBQtSVI_k&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&index=12 (Git Branches de forma fácil e com exemplo - Curso de Git e GitHub- Curso em Vídeo) 
 
 
+
+![Alt Text](https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif)
+
+
